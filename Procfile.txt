@@ -1,0 +1,4 @@
+# Don't Remove Credit @F5_JUBA
+# Ask Doubt on telegram @F5_JUBA
+
+web: python3 bot.py
